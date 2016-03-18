@@ -1,0 +1,11 @@
+C:\Codigos Fuente\ErrorHandler\ErrorHandlerView\bin\Debug\ErrorHandlerView.exe.config
+C:\Codigos Fuente\ErrorHandler\ErrorHandlerView\bin\Debug\ErrorHandlerView.exe
+C:\Codigos Fuente\ErrorHandler\ErrorHandlerView\bin\Debug\ErrorHandlerView.pdb
+C:\Codigos Fuente\ErrorHandler\ErrorHandlerView\obj\Debug\ErrorHandlerView.csprojResolveAssemblyReference.cache
+C:\Codigos Fuente\ErrorHandler\ErrorHandlerView\obj\Debug\ErrorHandlerView.frmErrorHandlerView.resources
+C:\Codigos Fuente\ErrorHandler\ErrorHandlerView\obj\Debug\ErrorHandlerView.Properties.Resources.resources
+C:\Codigos Fuente\ErrorHandler\ErrorHandlerView\obj\Debug\ErrorHandlerView.csproj.GenerateResource.Cache
+C:\Codigos Fuente\ErrorHandler\ErrorHandlerView\obj\Debug\ErrorHandlerView.exe
+C:\Codigos Fuente\ErrorHandler\ErrorHandlerView\obj\Debug\ErrorHandlerView.pdb
+C:\Codigos Fuente\ErrorHandler\ErrorHandlerView\bin\Debug\ErrorHandler.dll
+C:\Codigos Fuente\ErrorHandler\ErrorHandlerView\bin\Debug\ErrorHandler.pdb
