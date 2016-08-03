@@ -3,3 +3,8 @@ C:\Codigos Fuente\ErrorHandler\ErrorHandler\bin\Debug\ErrorHandler.pdb
 C:\Codigos Fuente\ErrorHandler\ErrorHandler\obj\Debug\ErrorHandler.dll
 C:\Codigos Fuente\ErrorHandler\ErrorHandler\obj\Debug\ErrorHandler.pdb
 C:\Codigos Fuente\ErrorHandler\ErrorHandler\obj\Debug\ErrorHandler.csprojResolveAssemblyReference.cache
+C:\Users\krojas\Desktop\Projects\ErrorHandlerC-Sharp\ErrorHandler\bin\Debug\ErrorHandler.dll
+C:\Users\krojas\Desktop\Projects\ErrorHandlerC-Sharp\ErrorHandler\bin\Debug\ErrorHandler.pdb
+C:\Users\krojas\Desktop\Projects\ErrorHandlerC-Sharp\ErrorHandler\obj\Debug\ErrorHandler.csprojResolveAssemblyReference.cache
+C:\Users\krojas\Desktop\Projects\ErrorHandlerC-Sharp\ErrorHandler\obj\Debug\ErrorHandler.dll
+C:\Users\krojas\Desktop\Projects\ErrorHandlerC-Sharp\ErrorHandler\obj\Debug\ErrorHandler.pdb

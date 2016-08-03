@@ -5,3 +5,10 @@ C:\Codigos Fuente\ErrorHandler\TestErrorHandler\obj\Debug\TestErrorHandler.dll
 C:\Codigos Fuente\ErrorHandler\TestErrorHandler\obj\Debug\TestErrorHandler.pdb
 C:\Codigos Fuente\ErrorHandler\TestErrorHandler\bin\Debug\ErrorHandler.dll
 C:\Codigos Fuente\ErrorHandler\TestErrorHandler\bin\Debug\ErrorHandler.pdb
+C:\Users\krojas\Desktop\Projects\ErrorHandlerC-Sharp\TestErrorHandler\bin\Debug\TestErrorHandler.dll
+C:\Users\krojas\Desktop\Projects\ErrorHandlerC-Sharp\TestErrorHandler\bin\Debug\TestErrorHandler.pdb
+C:\Users\krojas\Desktop\Projects\ErrorHandlerC-Sharp\TestErrorHandler\bin\Debug\ErrorHandler.dll
+C:\Users\krojas\Desktop\Projects\ErrorHandlerC-Sharp\TestErrorHandler\bin\Debug\ErrorHandler.pdb
+C:\Users\krojas\Desktop\Projects\ErrorHandlerC-Sharp\TestErrorHandler\obj\Debug\TestErrorHandler.csprojResolveAssemblyReference.cache
+C:\Users\krojas\Desktop\Projects\ErrorHandlerC-Sharp\TestErrorHandler\obj\Debug\TestErrorHandler.dll
+C:\Users\krojas\Desktop\Projects\ErrorHandlerC-Sharp\TestErrorHandler\obj\Debug\TestErrorHandler.pdb
